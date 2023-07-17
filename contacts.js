@@ -30,7 +30,6 @@ const removeContact = async(id) => {
   return result;
 }
 
-
 module.exports = {
   listContacts,
   getContactById,
